@@ -1,7 +1,7 @@
 {
     "url": "https://test-app.ionfi.xyz/swap",
     "name": "ION Finance",
-    "iconUrl": "https://raw.githubusercontent.com/ion-finance/docs/main/.gitbook/assets/symbol_b%20(1).png",
+    "iconUrl": "https://raw.githubusercontent.com/ion-finance/docs/main/.gitbook/assets/250%20b.png",
     "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-backend/terms-of-use.txt",
     "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-backend/privacy-policy.txt"
 }
