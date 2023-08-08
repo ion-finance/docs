@@ -9,9 +9,7 @@
 
 ## Guides
 
-* [Getting Started](guides/getting-started/README.md)
-  * [Web Application](guides/getting-started/web-application.md)
-  * [Telegram Web App](guides/getting-started/telegram-web-app.md)
+* [Getting Started](guides/getting-started.md)
 * [Traders](guides/traders/README.md)
   * [How to Make a Exchange](guides/traders/how-to-make-a-exchange.md)
 * [Liquidity Providers](guides/liquidity-providers/README.md)
