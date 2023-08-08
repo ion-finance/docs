@@ -1,8 +1,30 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Roadmap](roadmap.md)
+
+## Concepts
+
+* [Pools](concepts/pools.md)
+* [Asynchronous Routing](concepts/asynchronous-routing.md)
+
+## Guides
+
+* [Getting Started](guides/getting-started/README.md)
+  * [Web Application](guides/getting-started/web-application.md)
+  * [Telegram Web App](guides/getting-started/telegram-web-app.md)
+* [Traders](guides/traders/README.md)
+  * [How to Make a Exchange](guides/traders/how-to-make-a-exchange.md)
+* [Liquidity Providers](guides/liquidity-providers/README.md)
+  * [How to Add Liquidity](guides/liquidity-providers/how-to-add-liquidity.md)
+  * [Stable Pool](guides/liquidity-providers/stable-pool.md)
+  * [Volatile Pool](guides/liquidity-providers/volatile-pool.md)
+* [Pool Creation](guides/pool-creation.md)
 
 ## Developer
 
-* [V1 Architecture](developer/v1-architecture.md)
+* [Architecture](developer/v1-architecture.md)
+* [Messages](developer/messages/README.md)
+  * [Add Liquidity](developer/messages/add-liquidity.md)
+  * [Remove Liquidity](developer/messages/remove-liquidity.md)
+  * [Exchange](developer/messages/exchange.md)
+  * [Cross Pool Exchange](developer/messages/cross-pool-exchange.md)
