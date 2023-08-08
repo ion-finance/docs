@@ -16,8 +16,7 @@
   * [How to Make a Exchange](guides/traders/how-to-make-a-exchange.md)
 * [Liquidity Providers](guides/liquidity-providers/README.md)
   * [How to Add Liquidity](guides/liquidity-providers/how-to-add-liquidity.md)
-  * [Stable Pool](guides/liquidity-providers/stable-pool.md)
-  * [Volatile Pool](guides/liquidity-providers/volatile-pool.md)
+  * [How to Remove Liquidity](guides/liquidity-providers/how-to-remove-liquidity.md)
 * [Pool Creation](guides/pool-creation.md)
 
 ## Developer
