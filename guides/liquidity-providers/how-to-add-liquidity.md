@@ -28,3 +28,9 @@ Users can decide how many coins (1-3) they wish to supply. For optimal rates, pr
 For every token you choose to supply, send a respective transaction. Liquidity provision completes with the last transaction.
 
 <figure><img src="../../.gitbook/assets/stable-add.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Refund
+
+In case you change your mind midway, it’s possible to reclaim the liquidity you've started providing.
+
+<figure><img src="../../.gitbook/assets/refund.png" alt="" width="563"><figcaption></figcaption></figure>

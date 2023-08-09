@@ -15,7 +15,9 @@
 * [Liquidity Providers](guides/liquidity-providers/README.md)
   * [How to Add Liquidity](guides/liquidity-providers/how-to-add-liquidity.md)
   * [How to Remove Liquidity](guides/liquidity-providers/how-to-remove-liquidity.md)
-* [Pool Creation](guides/pool-creation.md)
+  * [Untitled](guides/liquidity-providers/untitled.md)
+* [Pool Creation](guides/pool-creation/README.md)
+  * [Create stable pool](guides/pool-creation/create-stable-pool.md)
 
 ## Developer
 
